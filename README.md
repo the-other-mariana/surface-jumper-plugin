@@ -20,7 +20,7 @@ Version of 3dsMax: 2020
 
 ## Usage
 
-### Getting Started 
+### Prepare Params 
 
 1. On Surface Jumper window, click on `Select Jumper`. <br />
 
