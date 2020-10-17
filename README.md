@@ -64,3 +64,6 @@ The plugin window should look something like this: <br />
 
 ![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/images/window.png?raw=true) <br />
 
+An example of the usage and result is below. <br />
+
+![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/images/example-gif.gif)<br />
