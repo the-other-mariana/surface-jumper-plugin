@@ -57,3 +57,10 @@ Version of 3dsMax: 2020
 15. Click on `Create Jumps` button to apply everything and generate the sequence. <br />
 
 *Note: You may want to have your time line include some negative frames so that you see the anticipation to the jumps.* <br />
+
+### Example
+
+The plugin window should look something like this: <br />
+
+![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/images/window.png?raw=true) <br />
+
