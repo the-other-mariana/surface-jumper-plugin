@@ -58,7 +58,7 @@ Version of 3dsMax: 2020
 
 *Note: You may want to have your time line include some negative frames so that you see the anticipation to the jumps.* <br />
 
-### Example
+## Example
 
 The plugin window should look something like this: <br />
 
