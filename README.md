@@ -32,7 +32,7 @@ Version of 3dsMax: 2020
 
 5. Make a right click. <br />
 
-6. Repeat steps 3 to 5 in order to add more jump control points. You must have more than 2 points. When you finish placing points, continue on step next section. <br />
+6. Repeat steps 3 to 5 in order to add more jump control points. You must have more than 2 points. When you finish placing points, continue on next section. <br />
 
 ### Customize Each Jump
 
