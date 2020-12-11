@@ -1,4 +1,7 @@
-![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/render/ad-gif.gif) <br />
+<p align="center">
+  <img width="600" height="450" src="https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/render/ad-gif.gif">
+</p>
+<br />
 
 # Surface Jumper Plugin
 
