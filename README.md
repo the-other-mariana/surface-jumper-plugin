@@ -2,9 +2,7 @@
 
 This plugin takes an object and makes it jump over a series of control points that you add by clicking on any editable poly you have on a 3dsMax Scene. <br />
 
-<p align="center">
-  <img width="600" height="450" src="https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/render/ad-gif.gif">
-</p>
+![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/render/ad-gif.gif)<br />
 
 ## Specifications
 
