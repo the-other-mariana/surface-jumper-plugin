@@ -1,4 +1,4 @@
-![ad](https://github.com/the-other-mariana/surface-jumper-plugin/tree/master/render/ad-gif.gif) <br />
+![alt text](https://github.com/the-other-mariana/surface-jumper-plugin/blob/master/render/ad-gif.gif) <br />
 
 # Surface Jumper Plugin
 
