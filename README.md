@@ -1,10 +1,12 @@
+![ad](https://github.com/the-other-mariana/surface-jumper-plugin/tree/master/render/ad-gif.gif) <br />
+
 # Surface Jumper Plugin
 
 This plugin takes an object and makes it jump over a series of control points that you add by clicking on any editable poly you have on a 3dsMax Scene. <br />
 
 ## Specifications
 
-Version of 3dsMax: 2020
+Version of 3dsMax: `Autodesk 3dsMax 2020`
 
 ## Getting Started
 
