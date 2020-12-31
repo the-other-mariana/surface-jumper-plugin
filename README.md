@@ -6,7 +6,7 @@ This plugin takes an object and makes it jump over a series of control points th
 
 ## Specifications
 
-Version of 3dsMax: `Autodesk 3dsMax 2020`
+Version of 3dsMax: `Autodesk 3dsMax 2020` <br />
 
 ## Getting Started
 
